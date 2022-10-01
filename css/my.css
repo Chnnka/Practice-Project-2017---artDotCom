@@ -1,0 +1,14 @@
+#my{
+  color: #889;
+  text-shadow:  2px 2px #000000;
+}
+#my2{
+  color:#fff;
+  text-shadow: 1px 1px 1px #000;
+}
+#left{
+  float: left;
+}
+#right{
+  float: right;
+}
